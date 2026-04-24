@@ -13,12 +13,12 @@ const noMessages = [
     "No",
     "Are you positive? 🤔",
     "Ayaw malouy ka pls... 🥺",
-    "If you say no, ma sad jud ko promise 🥺..",
+    "If you say no, ma sad jud ko promise 🥺",
     "I will be very sad... 😢",
     "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "Don't do this to me.. 🥺",
+    "Last chance!😭",
+    "You can't catch me anyway FRIEND 😜"
 ]
 
 const yesTeasePokes = [
